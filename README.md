@@ -1,8 +1,8 @@
-## Criador de Virtual Hosts do Apache
+# Criador de Virtual Hosts do Apache
 
 Este script gera os arquivos de um Virtual Host, cria uma página inicial, habilita o novo site e reinicia o serviço Apache.
 
-# Como utilizar
+## Como utilizar
 
 1. Crie um arquivo com o conteúdo do create.sh ou clone o repositório.
 
